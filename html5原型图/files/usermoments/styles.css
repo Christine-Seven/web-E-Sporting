@@ -725,7 +725,7 @@
   left:0px;
   top:0px;
   width:911px;
-  height:529px;
+  height:1680px;
   background:inherit;
   background-color:rgba(242, 242, 242, 0.498039215686275);
   border:none;
@@ -739,12 +739,12 @@
   left:293px;
   top:80px;
   width:911px;
-  height:529px;
+  height:1680px;
 }
 #u53 {
   position:absolute;
   left:2px;
-  top:256px;
+  top:832px;
   width:907px;
   visibility:hidden;
   word-wrap:break-word;
@@ -762,6 +762,7 @@
   top:0px;
   width:400px;
   height:105px;
+  background-color:rgba(255, 204, 204, 0.298039215686275);
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;

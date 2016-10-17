@@ -2,10 +2,694 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573d866c-63e4-4ef4-a238-9044cb82a655" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/regen/u87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/exploreactivity/u405.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/regen/u76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/explorefriends/u655.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u118.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/regen/u93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/u744.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/u748.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendshome/u785.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/regen/u63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/u532.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/u538.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/u585.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/friendslist/u587.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/chat_u31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/chat_u33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/regen/u9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/u11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/u27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/u35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/u7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/u9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/joinedactivity/regen/u75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/regen/u96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u199.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u221.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u226.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u243.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myactivity/u267.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/regen/u96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u1007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u968.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u970.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u972.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u981.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/useranalyse/u997.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userinfo/u84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/regen/u72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/u1078.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/u1085.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/usermoments/u1090.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/regen/u92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u845.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u851.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u853.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u855.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u857.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u859.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u861.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u863.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u865.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u867.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u869.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u871.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u873.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u875.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u877.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/userupload/u879.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_axure/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/data/document.js" afterPath="$PROJECT_DIR$/html_axure/data/document.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/data/styles.css" afterPath="$PROJECT_DIR$/html_axure/data/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/exploreactivity.html" afterPath="$PROJECT_DIR$/html_axure/exploreactivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/explorefriends.html" afterPath="$PROJECT_DIR$/html_axure/explorefriends.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/exploreactivity/data.js" afterPath="$PROJECT_DIR$/html_axure/files/exploreactivity/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/exploreactivity/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/exploreactivity/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/explorefriends/data.js" afterPath="$PROJECT_DIR$/html_axure/files/explorefriends/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/explorefriends/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/explorefriends/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/friendshome/data.js" afterPath="$PROJECT_DIR$/html_axure/files/friendshome/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/friendshome/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/friendshome/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/friendslist/data.js" afterPath="$PROJECT_DIR$/html_axure/files/friendslist/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/friendslist/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/friendslist/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/index/data.js" afterPath="$PROJECT_DIR$/html_axure/files/index/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/index/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/index/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/joinedactivity/data.js" afterPath="$PROJECT_DIR$/html_axure/files/joinedactivity/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/joinedactivity/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/joinedactivity/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/myactivity/data.js" afterPath="$PROJECT_DIR$/html_axure/files/myactivity/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/myactivity/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/myactivity/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/useranalyse/data.js" afterPath="$PROJECT_DIR$/html_axure/files/useranalyse/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/useranalyse/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/useranalyse/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userinfo/data.js" afterPath="$PROJECT_DIR$/html_axure/files/userinfo/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userinfo/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/userinfo/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/usermoments/data.js" afterPath="$PROJECT_DIR$/html_axure/files/usermoments/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/usermoments/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/usermoments/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userpassword/data.js" afterPath="$PROJECT_DIR$/html_axure/files/userpassword/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userpassword/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/userpassword/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userupload/data.js" afterPath="$PROJECT_DIR$/html_axure/files/userupload/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/files/userupload/styles.css" afterPath="$PROJECT_DIR$/html_axure/files/userupload/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/friendshome.html" afterPath="$PROJECT_DIR$/html_axure/friendshome.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/friendslist.html" afterPath="$PROJECT_DIR$/html_axure/friendslist.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u10.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u39.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u39.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u4.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u41.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u41.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u55.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u55.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u6.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u62.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u62.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u67.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u67.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u72.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u74.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u74.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u8.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/regen/u87.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u87.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/exploreactivity/u405.png" afterPath="$PROJECT_DIR$/html_axure/images/exploreactivity/u405.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u28.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u33.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u40.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u45.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u57.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u57.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u63.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u63.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u66.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u66.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/regen/u76.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u76.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/explorefriends/u655.png" afterPath="$PROJECT_DIR$/html_axure/images/explorefriends/u655.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u106.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u106.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u118.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u118.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u18.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u21.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u30.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u35.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u35.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u42.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u42.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u47.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u47.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u52.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u52.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u60.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u60.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u7.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u77.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u77.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u81.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u81.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/regen/u93.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u93.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/u744.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/u744.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/u748.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/u748.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendshome/u785.png" afterPath="$PROJECT_DIR$/html_axure/images/friendshome/u785.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u110.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u110.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u112.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u112.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u28.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u33.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u40.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u45.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u57.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u57.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/regen/u63.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u63.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/u532.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/u532.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/u538.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/u538.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/u585.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/u585.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/friendslist/u587.png" afterPath="$PROJECT_DIR$/html_axure/images/friendslist/u587.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/index/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/chat_u31.png" afterPath="$PROJECT_DIR$/html_axure/images/index/chat_u31.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/chat_u33.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/chat_u33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u11.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u13.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u29.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u29.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u36.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u36.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u37.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u37.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u43.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u43.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/regen/u9.png" afterPath="$PROJECT_DIR$/html_axure/images/index/regen/u9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/u11.png" afterPath="$PROJECT_DIR$/html_axure/images/index/u11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/u27.png" afterPath="$PROJECT_DIR$/html_axure/images/index/u27.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/u35.png" afterPath="$PROJECT_DIR$/html_axure/images/index/u35.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/u7.png" afterPath="$PROJECT_DIR$/html_axure/images/index/u7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/index/u9.png" afterPath="$PROJECT_DIR$/html_axure/images/index/u9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u28.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u37.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u37.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u44.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u44.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u49.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u49.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u56.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u56.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u61.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u61.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u66.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u66.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u68.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u68.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/joinedactivity/regen/u75.png" afterPath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u75.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u28.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u33.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u40.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u45.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u55.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u55.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u72.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/regen/u96.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u96.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u199.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u199.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u204.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u204.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u211.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u211.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u216.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u216.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u221.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u221.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u226.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u226.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u243.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u243.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/myactivity/u267.png" afterPath="$PROJECT_DIR$/html_axure/images/myactivity/u267.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u102.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u102.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u106.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u106.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u30.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u35.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u35.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u40.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u45.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u67.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u67.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u69.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u69.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u71.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u71.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u80.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u80.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u86.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u86.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/regen/u96.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u96.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u1007.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u1007.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u968.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u968.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u970.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u970.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u972.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u972.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u981.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u981.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/useranalyse/u997.png" afterPath="$PROJECT_DIR$/html_axure/images/useranalyse/u997.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u48.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u53.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u53.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u55.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u55.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u57.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u57.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u62.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u62.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u72.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u78.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u78.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userinfo/u84.png" afterPath="$PROJECT_DIR$/html_axure/images/userinfo/u84.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u12.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u19.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u28.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u3.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u33.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u40.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u45.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u45.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u5.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u50.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u60.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u60.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u67.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u67.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/regen/u72.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/u1078.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/u1078.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/u1085.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/u1085.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/usermoments/u1090.png" afterPath="$PROJECT_DIR$/html_axure/images/usermoments/u1090.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/bg.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u14.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u16.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u18.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u21.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u32.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u32.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u37.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u37.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u42.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u42.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u47.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u47.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u52.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u52.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u58.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u58.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u64.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u64.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u66.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u66.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u68.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u68.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u7.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u70.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u70.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u72.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u74.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u74.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u76.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u76.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u78.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u78.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u80.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u80.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u82.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u82.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u84.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u84.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u86.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u86.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u88.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u88.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u9.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u90.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u90.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/regen/u92.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/regen/u92.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u845.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u845.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u851.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u851.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u853.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u853.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u855.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u855.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u857.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u857.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u859.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u859.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u861.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u861.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u863.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u863.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u865.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u865.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u867.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u867.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u869.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u869.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u871.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u871.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u873.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u873.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u875.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u875.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u877.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u877.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/userupload/u879.png" afterPath="$PROJECT_DIR$/html_axure/images/userupload/u879.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/joinedactivity.html" afterPath="$PROJECT_DIR$/html_axure/joinedactivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/myactivity.html" afterPath="$PROJECT_DIR$/html_axure/myactivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/debug.js" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/debug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/debug.css" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/debug.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/reset.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/reset.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/reset_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/reset_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_off.png" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_off.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_off.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_off.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/debug/styles/images/variables_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/page_notes.js" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/page_notes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/back.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/back.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/back_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/back_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/footnotes_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/forward.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/forward.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/forward_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/forward_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_off.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_off.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_off.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_off.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/images/notes_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/page_notes/styles/page_notes.css" afterPath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/page_notes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/recordplay/recordplay.js" afterPath="$PROJECT_DIR$/html_axure/plugins/recordplay/recordplay.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/recordplay/styles/recordplay.css" afterPath="$PROJECT_DIR$/html_axure/plugins/recordplay/styles/recordplay.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/sitemap.js" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/sitemap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/sitemap.js.orig" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/sitemap.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/079_page_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/079_page_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/086_case_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/086_case_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/225_responsive_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/225_responsive_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/228_togglenotes_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/228_togglenotes_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/229_variables_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/229_variables_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/231_event_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/231_event_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/232_search_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/232_search_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/233_hyperlink_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/233_hyperlink_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/235_folderclosed_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/235_folderclosed_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/236_folderopen_16.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/236_folderopen_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/adaptivecheck.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/adaptivecheck.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/flow.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/flow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/flow.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/flow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/folder_closed.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_closed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/folder_closed.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_closed.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/folder_open.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_open.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/folder_open.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_open.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/hotspots_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/images.html" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/images.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/minus.gif" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/minus.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/note.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/note.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/note.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/note.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/page.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/page.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/page.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/page.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/plus.gif" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/plus.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/share_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_off.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_off.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_off.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_off.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/sitemap_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views_hover.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views_hover.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views_on.png" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/images/views_on.svg" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_on.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/plugins/sitemap/styles/sitemap.css" afterPath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/sitemap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/Other.html" afterPath="$PROJECT_DIR$/html_axure/resources/Other.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/allow_access.gif" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/allow_access.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/axure-chrome-extension.crx" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/axure-chrome-extension.crx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/axure_logo.gif" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/axure_logo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/axure_logo.png" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/axure_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/chrome.html" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/chrome.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/extensions_menu.gif" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/extensions_menu.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/splitter.gif" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/splitter.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/chrome/splitter.png" afterPath="$PROJECT_DIR$/html_axure/resources/chrome/splitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/axure_rp_page.css" afterPath="$PROJECT_DIR$/html_axure/resources/css/axure_rp_page.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/axure_rp_page.css.orig" afterPath="$PROJECT_DIR$/html_axure/resources/css/axure_rp_page.css.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/default.css" afterPath="$PROJECT_DIR$/html_axure/resources/css/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/images.html" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/images.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/newwindow.gif" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/newwindow.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/note.gif" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/note.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_454545_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_888888_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/jquery-ui-themes.css" afterPath="$PROJECT_DIR$/html_axure/resources/css/jquery-ui-themes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/css/reset.css" afterPath="$PROJECT_DIR$/html_axure/resources/css/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/expand.html" afterPath="$PROJECT_DIR$/html_axure/resources/expand.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/259_close_12rollover1.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/259_close_12rollover1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/259_close_12rollover2.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/259_close_12rollover2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/260_collapse_12rollover1.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/260_collapse_12rollover1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/260_collapse_12rollover2.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/260_collapse_12rollover2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/261_expand_12rollover1.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/261_expand_12rollover1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/261_expand_12rollover2.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/261_expand_12rollover2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/close.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/close.svg" afterPath="$PROJECT_DIR$/html_axure/resources/images/close.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/close_hover.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/close_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/close_hover.svg" afterPath="$PROJECT_DIR$/html_axure/resources/images/close_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/divider.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/divider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/divider.svg" afterPath="$PROJECT_DIR$/html_axure/resources/images/divider.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/expand.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/expand.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/expand.svg" afterPath="$PROJECT_DIR$/html_axure/resources/images/expand.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/expand_hover.png" afterPath="$PROJECT_DIR$/html_axure/resources/images/expand_hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/expand_hover.svg" afterPath="$PROJECT_DIR$/html_axure/resources/images/expand_hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/images.html" afterPath="$PROJECT_DIR$/html_axure/resources/images/images.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/images/transparent.gif" afterPath="$PROJECT_DIR$/html_axure/resources/images/transparent.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/reload.html" afterPath="$PROJECT_DIR$/html_axure/resources/reload.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/action.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/action.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/action.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/action.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/adaptive.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/adaptive.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/adaptive.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/adaptive.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/annotation.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/annotation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/annotation.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/annotation.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/axQuery.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/axQuery.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/axQuery.std.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.std.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/axQuery.std.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.std.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/doc.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/doc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/doc.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/doc.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/drag.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/drag.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/drag.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/drag.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/events.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/events.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/events.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/expr.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/expr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/expr.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/expr.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/flyout.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/flyout.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/geometry.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/geometry.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/globals.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/globals.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/ie.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/ie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/ie.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/ie.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/init.temp.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/init.temp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/init.temp.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/init.temp.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/legacy.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/legacy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/legacy.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/legacy.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/math.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/math.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/model.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/model.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/model.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/move.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/move.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/recording.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/recording.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/repeater.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/repeater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/repeater.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/repeater.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/sto.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/sto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/style.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/style.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/style.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/tree.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/tree.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/utils.temp.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/utils.temp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/variables.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/variables.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/variables.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/variables.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/viewer.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/viewer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/viewer.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/viewer.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axure/visibility.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axure/visibility.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axutils.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axutils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/axutils.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/axutils.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/jquery-1.7.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/messagecenter.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/messagecenter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/messagecenter.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/messagecenter.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/player/axplayer.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/player/axplayer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/player/axplayer.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/player/axplayer.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/player/splitter.js" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/player/splitter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/resources/scripts/player/splitter.js.orig" afterPath="$PROJECT_DIR$/html_axure/resources/scripts/player/splitter.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/start.html" afterPath="$PROJECT_DIR$/html_axure/start.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/start_c_1.html" afterPath="$PROJECT_DIR$/html_axure/start_c_1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/start_g_0.html" afterPath="$PROJECT_DIR$/html_axure/start_g_0.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/useranalyse.html" afterPath="$PROJECT_DIR$/html_axure/useranalyse.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/userinfo.html" afterPath="$PROJECT_DIR$/html_axure/userinfo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/usermoments.html" afterPath="$PROJECT_DIR$/html_axure/usermoments.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/userpassword.html" afterPath="$PROJECT_DIR$/html_axure/userpassword.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/userupload.html" afterPath="$PROJECT_DIR$/html_axure/userupload.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
     </list>
     <ignored path="web-E-Sporting.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,22 +706,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="explorefriends.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/explorefriends.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="88" column="36" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -47,8 +744,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="x" value="360" />
+    <option name="y" value="27" />
+    <option name="width" value="920" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -104,7 +802,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -119,6 +835,57 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -130,7 +897,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476715761633</updated>
-      <workItem from="1476715764311" duration="127000" />
+      <workItem from="1476715764311" duration="1169000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1476715801428</created>
@@ -143,16 +910,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127000" />
+    <option name="totallyTimeSpent" value="1169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="360" y="27" width="920" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21086957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503125" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -161,7 +929,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -188,13 +955,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/explorefriends.html">
+    <entry file="file://$PROJECT_DIR$/html_axure/start_g_0.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="88" column="36" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/start_c_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/explorefriends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3975">
+          <caret line="310" column="16" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

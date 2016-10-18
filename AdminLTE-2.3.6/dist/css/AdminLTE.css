@@ -3218,11 +3218,15 @@ table.text-center th {
 }
 .login-logo a,
 .register-logo a {
-  color: #444;
+  color: #3366FF;
+    font-family: "Yuanti TC";
+    font-style: inherit;
+    font-size: 32px;
 }
 .login-page,
 .register-page {
   background: #d2d6de;
+  /*background: url("../../images/index/bg.png") center repeat;*/
 }
 .login-box,
 .register-box {
@@ -3234,14 +3238,17 @@ table.text-center th {
   .register-box {
     width: 90%;
     margin-top: 20px;
+
   }
 }
 .login-box-body,
 .register-box-body {
   background: #fff;
+    /*background: url("../../images/index/u27.png");*/
   padding: 20px;
   border-top: 0;
-  color: #666;
+  color: #3366FF;
+    font-family: "Yuanti TC";
 }
 .login-box-body .form-control-feedback,
 .register-box-body .form-control-feedback {

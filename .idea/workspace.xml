@@ -2,234 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573d866c-63e4-4ef4-a238-9044cb82a655" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u10.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u39.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u39.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u4.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u41.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u41.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u55.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u6.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u62.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u62.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u67.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u67.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u72.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u74.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u74.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u8.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/regen/u87.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u87.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/exploreactivity/u405.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/u405.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u28.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u33.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u33.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u40.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u40.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u45.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u45.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u57.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u63.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u63.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u66.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u66.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/regen/u76.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u76.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/explorefriends/u655.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/u655.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u106.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u106.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u118.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u118.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u18.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u21.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u30.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u30.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u35.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u35.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u42.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u42.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u47.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u47.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u52.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u60.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u60.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u7.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u77.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u77.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u81.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u81.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/regen/u93.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u93.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/u744.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u744.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/u748.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u748.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendshome/u785.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u785.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u110.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u110.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u112.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u112.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u28.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u33.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u33.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u40.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u40.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u45.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u45.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u57.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/regen/u63.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u63.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/u532.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u532.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/u538.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u538.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/u585.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u585.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/friendslist/u587.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u587.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/chat_u31.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/chat_u31.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/chat_u33.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/chat_u33.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u11.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u13.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u29.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u29.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u36.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u36.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u37.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u37.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u43.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u43.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/regen/u9.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/u11.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/u27.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/u35.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u35.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/u7.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/index/u9.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u28.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u37.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u37.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u44.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u44.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u49.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u56.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u56.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u61.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u61.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u66.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u66.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u68.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u68.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/joinedactivity/regen/u75.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u75.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u28.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u33.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u33.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u40.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u40.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u45.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u45.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u55.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u72.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/regen/u96.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u96.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u199.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u199.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u204.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u204.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u211.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u211.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u216.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u216.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u221.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u221.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u226.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u226.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u243.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u243.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/myactivity/u267.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u267.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u102.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u102.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u106.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u106.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u30.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u30.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u35.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u35.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u40.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u40.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u45.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u45.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u67.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u67.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u69.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u69.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u71.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u71.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u80.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u80.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u86.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u86.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/regen/u96.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u96.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u1007.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u1007.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u968.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u968.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u970.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u970.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u972.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u972.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u981.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u981.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/useranalyse/u997.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u997.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u48.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u53.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u55.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u57.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u62.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u62.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u72.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u78.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u78.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userinfo/u84.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u84.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u12.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u19.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u28.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u3.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u33.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u33.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u40.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u40.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u45.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u45.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u5.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u60.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u60.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u67.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u67.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/regen/u72.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/u1078.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1078.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/u1085.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1085.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/usermoments/u1090.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1090.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/bg.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u14.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u16.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u18.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u21.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u32.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u37.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u37.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u42.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u42.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u47.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u47.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u52.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u58.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u58.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u64.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u64.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u66.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u66.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u68.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u68.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u7.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u70.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u70.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u72.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u74.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u74.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u76.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u76.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u78.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u78.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u80.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u80.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u82.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u82.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u84.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u84.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u86.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u86.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u88.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u88.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u9.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u90.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u90.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/regen/u92.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u92.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u845.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u845.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u851.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u851.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u853.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u853.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u855.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u855.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u857.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u857.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u859.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u859.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u861.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u861.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u863.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u863.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u865.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u865.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u867.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u867.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u869.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u869.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u871.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u871.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u873.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u873.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u875.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u875.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u877.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u877.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/userupload/u879.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u879.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" />
     </list>
     <ignored path="web-E-Sporting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -250,22 +27,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html">
+      <file leaf-file-name="userupload.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+            <state relative-caret-position="165">
+              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html">
+      <file leaf-file-name="upload.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="405">
+              <caret line="172" column="45" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+              <folding>
+                <element signature="e#5866#5872#0" expanded="true" />
+                <element signature="e#5872#5878#0" expanded="true" />
+                <element signature="e#5878#5884#0" expanded="true" />
+                <element signature="e#6099#6105#0" expanded="true" />
+                <element signature="e#6105#6111#0" expanded="true" />
+                <element signature="e#6111#6117#0" expanded="true" />
+                <element signature="e#6336#6342#0" expanded="true" />
+                <element signature="e#6342#6348#0" expanded="true" />
+                <element signature="e#6348#6354#0" expanded="true" />
+                <element signature="e#6950#6956#0" expanded="true" />
+                <element signature="e#6956#6962#0" expanded="true" />
+                <element signature="e#6962#6968#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,8 +63,38 @@
       <file leaf-file-name="AdminLTE.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            <state relative-caret-position="131">
+              <caret line="912" column="6" selection-start-line="912" selection-start-column="6" selection-end-line="912" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/UI/icons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbars-with-elements.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars-with-elements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -298,9 +118,12 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/myindex.html" />
-        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
-        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
+        <option value="$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css" />
+        <option value="$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" />
       </list>
     </option>
   </component>
@@ -312,8 +135,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="613" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="745" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -393,7 +217,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
+              <option name="myItemId" value="html_axure" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -426,6 +250,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminLTE-2.3.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,46 +315,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminLTE-2.3.6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminLTE-2.3.6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -516,7 +322,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -590,7 +396,7 @@
       <updated>1476715761633</updated>
       <workItem from="1476715764311" duration="1358000" />
       <workItem from="1476778928474" duration="1103000" />
-      <workItem from="1476795919754" duration="2214000" />
+      <workItem from="1476795919754" duration="9259000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1476715801428</created>
@@ -603,13 +409,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4675000" />
+    <option name="totallyTimeSpent" value="11720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="613" y="23" width="745" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02147651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -702,13 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_axure/explorefriends.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3975">
@@ -717,16 +516,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html" />
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/chat_u31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -775,27 +564,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css">
+    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbar-fixed-top.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars-with-elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14925">
+          <caret line="1255" column="23" selection-start-line="1255" selection-start-column="23" selection-end-line="1255" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="3224" column="26" selection-start-line="3224" selection-start-column="26" selection-end-line="3224" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/chat_u31.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u27.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u35.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/exploreactivity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="134" column="31" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="47367" selection-start-line="4" selection-start-column="47367" selection-end-line="4" selection-end-column="47367" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/img/user2-160x160.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/layout/top-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        <state relative-caret-position="270">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/UI/icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="912" column="6" selection-start-line="912" selection-start-column="6" selection-end-line="912" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="172" column="45" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+          <folding>
+            <element signature="e#5866#5872#0" expanded="true" />
+            <element signature="e#5872#5878#0" expanded="true" />
+            <element signature="e#5878#5884#0" expanded="true" />
+            <element signature="e#6099#6105#0" expanded="true" />
+            <element signature="e#6105#6111#0" expanded="true" />
+            <element signature="e#6111#6117#0" expanded="true" />
+            <element signature="e#6336#6342#0" expanded="true" />
+            <element signature="e#6342#6348#0" expanded="true" />
+            <element signature="e#6348#6354#0" expanded="true" />
+            <element signature="e#6950#6956#0" expanded="true" />
+            <element signature="e#6956#6962#0" expanded="true" />
+            <element signature="e#6962#6968#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

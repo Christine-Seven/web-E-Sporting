@@ -2,11 +2,715 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573d866c-63e4-4ef4-a238-9044cb82a655" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/common.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/adminlte-options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/advice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/browsers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/components.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/dependencies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/implementations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/introduction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/include/upgrade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/docs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/documentation/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/regen/u87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/exploreactivity/u405.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/regen/u76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/explorefriends/u655.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u118.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/regen/u93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u744.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u748.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendshome/u785.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/regen/u63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u532.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u538.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u585.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/chat_u31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/chat_u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/regen/u9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/joinedactivity/regen/u75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/regen/u96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u199.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u204.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u211.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u216.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u226.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u243.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/myactivity/u267.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u102.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/regen/u96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u1007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u968.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u997.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1078.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1085.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u845.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u851.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/myindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/data/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/data/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/exploreactivity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/explorefriends.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/exploreactivity/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/exploreactivity/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/explorefriends/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/explorefriends/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/friendshome/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/friendshome/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/friendslist/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/friendslist/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/index/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/index/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/joinedactivity/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/joinedactivity/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/myactivity/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/myactivity/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/useranalyse/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/useranalyse/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userinfo/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userinfo/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/usermoments/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/usermoments/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userpassword/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userpassword/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userupload/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/files/userupload/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/friendshome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/friendslist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/regen/u87.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/exploreactivity/u405.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/regen/u76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/explorefriends/u655.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u118.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u77.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u81.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/regen/u93.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/u744.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/u748.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendshome/u785.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/regen/u63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/u532.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/u538.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/u585.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/friendslist/u587.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/chat_u31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/chat_u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/regen/u9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/u11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/u27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/index/u9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/joinedactivity/regen/u75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/regen/u96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u199.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u204.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u211.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u216.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u221.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u226.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u243.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/myactivity/u267.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u102.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/regen/u96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u1007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u968.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u972.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/useranalyse/u997.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userinfo/u84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/u1078.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/u1085.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/usermoments/u1090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u68.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u84.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u86.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/regen/u92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u845.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u851.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u853.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u855.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u857.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u859.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u861.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u863.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u865.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u867.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u869.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u871.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u873.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u875.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u877.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/images/userupload/u879.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/joinedactivity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/myactivity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/debug.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/reset.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/reset_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/debug/styles/images/variables_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/page_notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/back_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/footnotes_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/forward_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/images/notes_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/page_notes/styles/page_notes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/recordplay/recordplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/recordplay/styles/recordplay.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/sitemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/sitemap.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/079_page_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/086_case_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/225_responsive_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/228_togglenotes_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/229_variables_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/231_event_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/232_search_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/233_hyperlink_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/235_folderclosed_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/236_folderopen_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/adaptivecheck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/flow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/flow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_closed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_closed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/folder_open.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/hotspots_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/images.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/note.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/page.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/share_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/sitemap_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/images/views_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/plugins/sitemap/styles/sitemap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/Other.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/allow_access.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/axure-chrome-extension.crx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/axure_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/axure_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/chrome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/extensions_menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/splitter.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/chrome/splitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/axure_rp_page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/axure_rp_page.css.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/images.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/newwindow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/note.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/jquery-ui-themes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/expand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/259_close_12rollover1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/259_close_12rollover2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/260_collapse_12rollover1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/260_collapse_12rollover2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/261_expand_12rollover1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/261_expand_12rollover2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/close_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/close_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/divider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/divider.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/expand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/expand.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/expand_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/expand_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/images.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/images/transparent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/reload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/action.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/action.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/adaptive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/adaptive.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/annotation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/annotation.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.std.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/axQuery.std.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/doc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/doc.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/drag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/drag.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/events.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/expr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/expr.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/flyout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/globals.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/ie.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/init.temp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/init.temp.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/legacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/legacy.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/model.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/move.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/recording.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/repeater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/repeater.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/sto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/style.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/tree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/utils.temp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/variables.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/viewer.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axure/visibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axutils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/axutils.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/jquery-ui-1.8.10.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/messagecenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/messagecenter.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/player/axplayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/player/axplayer.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/player/splitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/resources/scripts/player/splitter.js.orig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/start_c_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/start_g_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/useranalyse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/userinfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/usermoments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/userpassword.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html_axure/userupload.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u587.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/friendslist/u587.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u11.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u9.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u970.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u970.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u972.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/useranalyse/u972.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u50.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u50.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u55.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u55.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u57.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userinfo/u57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u853.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u853.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u855.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u855.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u857.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u857.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u859.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u859.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u861.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u861.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u863.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u863.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u865.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u865.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u867.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u867.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u869.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u869.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u871.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u871.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u873.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u873.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u875.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u875.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u877.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u877.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u879.png" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u879.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" afterPath="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css" afterPath="$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css" />
     </list>
     <ignored path="web-E-Sporting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,35 +731,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="userupload.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
+      <file leaf-file-name="activitymy.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activitymy.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+              <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activityjoined.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityjoined.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="157" column="9" selection-start-line="157" selection-start-column="9" selection-end-line="157" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activityexplore.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityexplore.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/tables/simple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="787" column="20" selection-start-line="779" selection-start-column="13" selection-end-line="787" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html">
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="172" column="45" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
-              <folding>
-                <element signature="e#5866#5872#0" expanded="true" />
-                <element signature="e#5872#5878#0" expanded="true" />
-                <element signature="e#5878#5884#0" expanded="true" />
-                <element signature="e#6099#6105#0" expanded="true" />
-                <element signature="e#6105#6111#0" expanded="true" />
-                <element signature="e#6111#6117#0" expanded="true" />
-                <element signature="e#6336#6342#0" expanded="true" />
-                <element signature="e#6342#6348#0" expanded="true" />
-                <element signature="e#6348#6354#0" expanded="true" />
-                <element signature="e#6950#6956#0" expanded="true" />
-                <element signature="e#6956#6962#0" expanded="true" />
-                <element signature="e#6962#6968#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,38 +793,8 @@
       <file leaf-file-name="AdminLTE.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="912" column="6" selection-start-line="912" selection-start-column="6" selection-end-line="912" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/UI/icons.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbars-with-elements.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars-with-elements.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="23145">
+              <caret line="1543" column="15" selection-start-line="1543" selection-start-column="15" selection-end-line="1543" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -106,6 +806,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -118,12 +819,30 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/myindex.html" />
-        <option value="$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css" />
         <option value="$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
+        <option value="$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/activityexplore.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/activityjoined.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/activitymy.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/friendsexplore.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/friendslist.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/moments.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/common.css" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/tables/simple.html" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/charts/flot.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/analyse.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/charts/chartjs.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/upload.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/analyse.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/friendslist.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/friendsexplore.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityexplore.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityjoined.html" />
+        <option value="$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activitymy.html" />
       </list>
     </option>
   </component>
@@ -135,9 +854,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="613" />
     <option name="y" value="23" />
-    <option name="width" value="745" />
+    <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -187,7 +905,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -217,20 +934,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html_axure" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-E-Sporting" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="AdminLTE-2.3.6" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -271,7 +974,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UI" />
+              <option name="myItemId" value="tables" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,7 +996,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
+              <option name="myItemId" value="mypages" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,12 +1014,35 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-E-Sporting" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminLTE-2.3.6" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,15 +1051,17 @@
     <property name="last_opened_file_path" value="$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AdminLTE-2.3.6/dist/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AdminLTE-2.3.6" />
       <recent name="$PROJECT_DIR$/html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples" />
+      <recent name="$PROJECT_DIR$/AdminLTE-2.3.6/dist/img" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -397,6 +1125,9 @@
       <workItem from="1476715764311" duration="1358000" />
       <workItem from="1476778928474" duration="1103000" />
       <workItem from="1476795919754" duration="9259000" />
+      <workItem from="1476842866188" duration="9436000" />
+      <workItem from="1476856870188" duration="380000" />
+      <workItem from="1476878789147" duration="8566000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1476715801428</created>
@@ -409,20 +1140,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11720000" />
+    <option name="totallyTimeSpent" value="30102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="23" width="745" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02147651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -430,6 +1160,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -454,159 +1185,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/myindex.html">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7980">
-          <caret line="532" column="40" selection-start-line="532" selection-start-column="40" selection-end-line="532" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/starter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html" />
-    <entry file="file://$PROJECT_DIR$/html_axure/start_g_0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/start_c_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/start.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7215">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/explorefriends.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3975">
-          <caret line="310" column="16" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html" />
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="532" column="40" selection-start-line="532" selection-start-column="40" selection-end-line="532" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/starter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/skins/_all-skins.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3390">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/myindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/myindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbar-fixed-top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars-with-elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flat-UI-master/dist/css/flat-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14925">
-          <caret line="1255" column="23" selection-start-line="1255" selection-start-column="23" selection-end-line="1255" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/DeveloperDownloads/tool/AdminLTE-2.3.6/dist/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="3224" column="26" selection-start-line="3224" selection-start-column="26" selection-end-line="3224" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/chat_u31.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u7.png">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/bg.png" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u7.png" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u9.png" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/regen/u14.png" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u847.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -621,141 +1213,304 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u27.png">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u13.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u35.png">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u29.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/exploreactivity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="134" column="31" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u36.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="4" column="47367" selection-start-line="4" selection-start-column="47367" selection-end-line="4" selection-end-column="47367" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/index/u43.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u853.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/documentation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1200">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u855.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/blank.html">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u857.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u859.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u861.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u865.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u867.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u869.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u871.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u873.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u875.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u877.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u881.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u879.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/userupload/u863.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1080.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1087.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/images/usermoments/u1092.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/skins/skin-green.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
-          <folding />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/img/user2-160x160.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_axure/userupload.html">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/analyse.html" />
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/widgets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/layout/top-nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-780">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flat-UI-master/docs/examples/navbars.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/UI/icons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="912" column="6" selection-start-line="912" selection-start-column="6" selection-end-line="912" selection-end-column="6" />
+        <state relative-caret-position="23145">
+          <caret line="1543" column="15" selection-start-line="1543" selection-start-column="15" selection-end-line="1543" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/examples/upload.html">
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/charts/flot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="172" column="45" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+        <state relative-caret-position="202">
+          <caret line="539" column="20" selection-start-line="539" selection-start-column="20" selection-end-line="539" selection-end-column="20" />
           <folding>
-            <element signature="e#5866#5872#0" expanded="true" />
-            <element signature="e#5872#5878#0" expanded="true" />
-            <element signature="e#5878#5884#0" expanded="true" />
-            <element signature="e#6099#6105#0" expanded="true" />
-            <element signature="e#6105#6111#0" expanded="true" />
-            <element signature="e#6111#6117#0" expanded="true" />
-            <element signature="e#6336#6342#0" expanded="true" />
-            <element signature="e#6342#6348#0" expanded="true" />
-            <element signature="e#6348#6354#0" expanded="true" />
-            <element signature="e#6950#6956#0" expanded="true" />
-            <element signature="e#6956#6962#0" expanded="true" />
-            <element signature="e#6962#6968#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1470298926000" expanded="true" signature="40213:40291" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/charts/chartjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="400" column="5" selection-start-line="400" selection-start-column="5" selection-end-line="400" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1470298926000" expanded="true" signature="30927:30970" ph="..." />
+            <marker date="1470298926000" expanded="true" signature="33881:33924" ph="..." />
+            <marker date="1470298926000" expanded="true" signature="35640:35683" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="6" column="34603" selection-start-line="6" selection-start-column="34603" selection-end-line="6" selection-end-column="34603" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/charts/inline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1703">
+          <caret line="1152" column="25" selection-start-line="1098" selection-start-column="1" selection-end-line="1152" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/plugins/datatables/jquery.dataTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="14775" column="6" selection-start-line="14775" selection-start-column="6" selection-end-line="14775" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/tables/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="522" column="74" selection-start-line="522" selection-start-column="63" selection-end-line="522" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/analyse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="189" column="22" selection-start-line="189" selection-start-column="22" selection-end-line="189" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1476886418000" expanded="true" signature="19641:19684" ph="..." />
+            <marker date="1476886418000" expanded="true" signature="22098:22141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="1334" column="22" selection-start-line="1291" selection-start-column="6" selection-end-line="1334" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/tables/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="787" column="20" selection-start-line="779" selection-start-column="13" selection-end-line="787" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/friendslist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="168" column="33" selection-start-line="168" selection-start-column="33" selection-end-line="168" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/friendsexplore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="174" column="24" selection-start-line="174" selection-start-column="24" selection-end-line="174" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityexplore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activitymy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="174" column="28" selection-start-line="174" selection-start-column="28" selection-end-line="174" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLTE-2.3.6/pages/mypages/activityjoined.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="157" column="9" selection-start-line="157" selection-start-column="9" selection-end-line="157" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
